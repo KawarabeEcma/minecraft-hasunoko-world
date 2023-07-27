@@ -6,6 +6,7 @@
 
 Even if accessed with the Bedrock version, this server will work with the Java version of the specification.
 
+- The server is operational 24/7, but automatic restarts occur at 05:00 and 17:00.
 - Please access using the latest version.
 - When accessing through the Bedrock Edition, "BE." is prefixed to the name.
 - Even if accessed through the Bedrock Edition, this server will operate based on the Java Edition specifications.
