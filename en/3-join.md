@@ -18,6 +18,7 @@
 1. Find the "Add Server" button on the bottom of left side
 2. Select the button.
 3. You will see input fields for "Server Name", "Server Address", and "Server Port".
+4. Go to "3-3. 🥒 Common"
 
 </details>
 
@@ -27,6 +28,7 @@
 1. Launch Minecraft.
 2. Select "Multiplayer".
 3. Select "Add Server".
+4. Go to "3-3. 🥒 Common"
 
 </details>
 
