@@ -2,11 +2,7 @@ NOTE: I'm using translation machines.
 
 # 1. 🥒 Rules
 
-## 1-1. 🥒 Server Specifications
-
-Even if accessed with the Bedrock version, this server will work with the Java version of the specification.
-
-## 1-2. 🥒 Player Name
+## 1-1. 🥒 Player Name
 
 As a fundamental requirement, please ensure that the username in the YouTube comment section and the player name are the same person, allowing for easy identification.
 
@@ -15,21 +11,53 @@ e.g.
 - YouTube: Taro → Minecraft: Taro, Taro1234
 - YouTube: Jack(Tom) → Minecraft: Tom, Tom1234, Jack, Jack1234
 
-## 1-3. 🥒 Live Streaming
+## 1-2. 🥒 Multiple creators are participating
 
-Streamers who are my friends may live stream without notice.
+Other creators participating without notice may be streaming or recording videos.
 
-## 1-4. 🥒 Server Rules
+## 1-3. 🥒 House Rules
 
-If you violate any of the following rules, **even once**, you will be subject to immediate and permanent banning..  
-In general, if the moderators determine that your behavior is malicious or detrimental in any way, it will be considered a violation.
+If you violate any of the following rules, you will generally receive a **permanent one-strike BAN**.
+**Even if not explicitly stated**, actions deemed malicious by the administration may result in consequences.
 
-- Be considerate and do not harass (do not steal people's items, do not destroy people's buildings, do not occupy items, do not overload the server, try to communicate with Japanese and English speakers as much as possible using translation tools and more, etc.)
-- Prohibited actions and constructions that violate public order and morals. Please also be mindful of Japanese laws regarding copyright and other legal regulations, as well as the terms and policies of YouTube.
-- Do not interfere with the live stream (You can't put a damper on the future plans and current excitement of the live stream.). Also, please avoid special events (such as defeating the Ender Dragon) when playing without Ecma Kawarabe (me).
-- Transparent skins and skins featuring characters without proper copyright ownership are not allowed (when in doubt, use a normal skin!).
-- Please write your name near your own constructions! If you want to make any modifications that may affect areas beyond your own, be sure to consult with others!
-- Chests without names written on them outside of buildings are considered free chests, but please remember to consider the feelings of others, such as "others might want them too" or "the person who put might not want everything to be taken."
+### ⛏ Show Consideration and Avoid Harassment
+
+- Do not steal others' items.
+- Do not destroy other players' buildings.
+- Do not hog items.
+  - 💡 If you take a large amount of items, make sure to share them with everyone.
+  - 💡 Feel free to consult us if you have concerns.
+- Do not avoid communication with Japanese or English speakers.
+  - 💡 Try to use English at least when chatting or writing on signs!
+  - 💡 Try to communicate using translation tools or other means!
+
+and so on.
+
+### ⛏ Prohibition of Acts Contrary to Public Morals and Order, Including Building
+
+Please also be mindful of copyright and YouTube's terms of use.
+
+### ⛏ Interference with Streamers and Content Creators is Prohibited
+
+In essence, read the room 😂
+Also, please refrain from hosting special events (such as defeating the Ender Dragon) outside of streaming.
+
+### ⛏ About Skins
+
+Transparent skins and the use of characters for which you do not hold the copyright are prohibited.
+(If you're not sure, stick to a normal skin!)
+
+### ⛏ Write Your Name!
+
+Please write your name near your constructions.
+If you want to make changes that will affect others as well, consult with them!
+
+Let's also consider the future, such as whether the owner of the building might want it to be slightly expanded!
+
+### ⛏ Shared Chests
+
+Chests outside buildings without names written on them are considered free chests!
+However, please remember the feelings of "Others might want this too? I don't want everything to be taken" while using them.
 
 ---
 
