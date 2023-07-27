@@ -17,7 +17,7 @@ Other creators participating without notice may be streaming or recording videos
 
 ## 1-3. 🥒 House Rules
 
-If you violate any of the following rules, you will generally receive a **permanent one-strike BAN**.
+If you violate any of the following rules, you will generally receive a **permanent one-strike BAN**.  
 **Even if not explicitly stated**, actions deemed malicious by the administration may result in consequences.
 
 ### ⛏ Show Consideration and Avoid Harassment
@@ -39,24 +39,24 @@ Please also be mindful of copyright and YouTube's terms of use.
 
 ### ⛏ Interference with Streamers and Content Creators is Prohibited
 
-In essence, read the room 😂
+In essence, read the room 😂  
 Also, please refrain from hosting special events (such as defeating the Ender Dragon) outside of streaming.
 
 ### ⛏ About Skins
 
-Transparent skins and the use of characters for which you do not hold the copyright are prohibited.
+Transparent skins and the use of characters for which you do not hold the copyright are prohibited.  
 (If you're not sure, stick to a normal skin!)
 
 ### ⛏ Write Your Name!
 
 Please write your name near your constructions.
-If you want to make changes that will affect others as well, consult with them!
 
-Let's also consider the future, such as whether the owner of the building might want it to be slightly expanded!
+- If you want to make changes that will affect others as well, consult with them!
+- Let's also consider the future, such as whether the owner of the building might want it to be slightly expanded!
 
 ### ⛏ Shared Chests
 
-Chests outside buildings without names written on them are considered free chests!
+Chests outside buildings without names written on them are considered free chests!  
 However, please remember the feelings of "Others might want this too? I don't want everything to be taken" while using them.
 
 ---
