@@ -11,7 +11,7 @@ Even if accessed with the Bedrock version, this server will work with the Java v
 - When accessing through the Bedrock Edition, "BE." is prefixed to the name.
 - Even if accessed through the Bedrock Edition, this server will operate based on the Java Edition specifications.
 - Some aspects may behave differently from the standard Java Edition.
-- The maximum `view-distance` is 24 chunks, and the maximum `simulation-distance` is 12 chunks.
+- The maximum `view-distance` is 16 chunks, and the maximum `simulation-distance` is 8 chunks.
 
 ## 🥒 Contents
 
