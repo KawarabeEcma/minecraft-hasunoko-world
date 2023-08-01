@@ -5,6 +5,7 @@ NOTE: I'm using translation machines.
 ## 1-1. 🥒 Player Name
 
 As a fundamental requirement, please ensure that the username in the YouTube comment section and the player name are the same person, allowing for easy identification.
+Do not use names beginning with "BE\_".
 
 e.g.
 
