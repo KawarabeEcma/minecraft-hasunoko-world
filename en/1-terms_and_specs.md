@@ -1,22 +1,6 @@
 NOTE: I'm using translation machines.
 
-# 1. 🥒 Rules
-
-## 1-1. 🥒 Player Name
-
-As a fundamental requirement, please ensure that the username in the YouTube comment section and the player name are the same person, allowing for easy identification.
-Do not use names beginning with "BE\_".
-
-e.g.
-
-- YouTube: Taro → Minecraft: Taro, Taro1234
-- YouTube: Jack(Tom) → Minecraft: Tom, Tom1234, Jack, Jack1234
-
-## 1-2. 🥒 Multiple creators are participating
-
-Other creators participating without notice may be streaming or recording videos.
-
-## 1-3. 🥒 House Rules
+## 1. 🥒 House Rules
 
 If you violate any of the following rules, you will generally receive a **permanent one-strike BAN**.  
 **Even if not explicitly stated**, actions deemed malicious by the administration may result in consequences.
@@ -59,6 +43,17 @@ Please write your name near your constructions.
 
 Chests outside buildings without names written on them are considered free chests!  
 However, please remember the feelings of "Others might want this too? I don't want everything to be taken" while using them.
+
+## 2. 🥒 Server Specs
+
+Even if accessed with the Bedrock version, this server will work with the Java version of the specification.
+
+- The server is operational 24/7, but automatic restarts occur at 05:00 and 17:00 JST.
+- Please access using the latest version.
+- When accessing through the Bedrock Edition, "BE\_" is prefixed to the name.
+- Even if accessed through the Bedrock Edition, this server will operate based on the Java Edition specifications.
+- Some aspects may behave differently from the standard Java Edition.
+- The maximum `view-distance` is 16 chunks, and the maximum `simulation-distance` is 8 chunks.
 
 ---
 
